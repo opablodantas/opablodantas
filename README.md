@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pablo Dantas</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
+<h3 align="center">I'm a Aspiring Data Scientist from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=opablodantas&label=Profile%20views&color=0e75b6&style=flat" alt="opablodantas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opablodantas" alt="opablodantas" /></a> </p>
 
-- 🔭 I’m currently working on [Wine Quality](https://github.com/opablodantas/wive_quality)
+- 🔭 I’m currently working on [Preços de Combustíveis](https://github.com/opablodantas/preco_combustiveis)
 
 - 🌱 I’m currently learning **Hadoop, Spark and Machine Learning in detail**
 
