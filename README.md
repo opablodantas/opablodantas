@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opablodantas" alt="opablodantas" /></a> </p>
 
-- 🔭 I’m currently working on [Preços de Combustíveis](https://github.com/opablodantas/preco_combustiveis)
+- 🔭 I’m currently working on [Predicting-Heart-Attack-Risk](https://github.com/opablodantas/Predicting-Heart-Attack-Risk) and [UCI-Absenteeism-at-Work-Analysis](https://github.com/opablodantas/UCI-Absenteeism-at-Work-Analysis)
 
 - 🌱 I’m currently learning **Hadoop, Spark and Machine Learning in detail**
 
