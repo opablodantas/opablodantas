@@ -6,7 +6,7 @@
 Desde que descobri a fascinante área de Ciência de Dados em 2020, meu sonho tem sido transformar números em histórias e gráficos em risadas (e insights, é claro!). Quando não estou mergulhado em dados, você me encontrará devorando uma deliciosa lasanha, adquirindo mais conhecimentos ou torcendo freneticamente pelo meu time de futebol ou assistindo um bom jogo de basquete. Sim, sou tão apaixonado por esses esportes quanto sou por análise de dados!
 
 ### Conecte-se Comigo
-- [LinkedIn](https://linkedin.com/in/linkedin.com/in/pablodantasevangelista/)
+- [LinkedIn](https://www.linkedin.com/in/pablodantasevangelista/)
 
 ### Projetos Destacados
 - [Predicting-Heart-Attack-Risk](https://github.com/opablodantas/Predicting-Heart-Attack-Risk): Um projeto para prever o risco de ataque cardíaco usando aprendizado de máquina.
