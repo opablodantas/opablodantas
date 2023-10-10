@@ -12,7 +12,7 @@ Desde que descobri a fascinante área de Ciência de Dados em 2020, meu sonho te
 - [Predicting-Heart-Attack-Risk](https://github.com/opablodantas/Predicting-Heart-Attack-Risk): Um projeto para prever o risco de ataque cardíaco usando aprendizado de máquina.
 - [UCI-Absenteeism-at-Work-Analysis](https://github.com/opablodantas/UCI-Absenteeism-at-Work-Analysis): Uma análise de ausências no trabalho com dados da UCI.
 - [HR_Analysis_Workforce_Insights](https://github.com/opablodantas/HR_Analysis_Workforce_Insights): Projeto de análise de dados de recursos humanos para insights sobre educação, experiência e retenção de funcionários
-- [behavior_urban_traffic](https://github.com/opablodantas/behavior_urban_traffic): Projeto sobre o Comportamento do trânsito urbano da cidade de São Paulo, Brasil
+- [SP-Urban-Traffic-Prediction-Research](https://github.com/opablodantas/SP-Urban-Traffic-Prediction-Research): Projeto sobre o Comportamento do trânsito urbano da cidade de São Paulo, Brasil
 
 ### Linguagens e Ferramentas
 <p align="left">
