@@ -8,9 +8,12 @@ Desde que descobri a fascinante área de Ciência de Dados em 2020, meu sonho te
 ### Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/pablodantasevangelista/)
 
-### Projetos Destacados
+### Projetos em Andamento
 - [Predicting-Heart-Attack-Risk](https://github.com/opablodantas/Predicting-Heart-Attack-Risk): Um projeto para prever o risco de ataque cardíaco usando aprendizado de máquina.
 - [UCI-Absenteeism-at-Work-Analysis](https://github.com/opablodantas/UCI-Absenteeism-at-Work-Analysis): Uma análise de ausências no trabalho com dados da UCI.
+
+### Projetos Destacados
+
 - [HR_Analysis_Workforce_Insights](https://github.com/opablodantas/HR_Analysis_Workforce_Insights): Projeto de análise de dados de recursos humanos para insights sobre educação, experiência e retenção de funcionários
 - [SP-Urban-Traffic-Prediction-Research](https://github.com/opablodantas/SP-Urban-Traffic-Prediction-Research): Projeto sobre o Comportamento do trânsito urbano da cidade de São Paulo, Brasil
 
