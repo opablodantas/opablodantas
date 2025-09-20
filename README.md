@@ -1,21 +1,29 @@
 <h1 align="center">Olá, sou Pablo Dantas 👋</h1>
-<h3 align="center">Entusiasta de Ciência de Dados do Brasil</h3>
-
+<h3 align="center">Profissional em transição de carreira para a área de Dados | Brasil</h3>
 
 ### Sobre Mim
-Desde que descobri a fascinante área de Ciência de Dados em 2020, meu sonho tem sido transformar números em histórias e gráficos em risadas (e insights, é claro!). Quando não estou mergulhado em dados, você me encontrará devorando uma deliciosa lasanha, adquirindo mais conhecimentos ou torcendo freneticamente pelo meu time de futebol ou assistindo um bom jogo de basquete. Sim, sou tão apaixonado por esses esportes quanto sou por análise de dados!
+Sou entusiasta da **Ciência de Dados** e apaixonado por transformar informações em valor real para os negócios. Tenho experiência com **automação de tarefas, análise de dados e desenvolvimento de aplicações** que facilitam a tomada de decisão.  
+
+Minha trajetória começou em funções operacionais, mas ao longo dos anos desenvolvi projetos práticos em **Python, SQL e ferramentas de análise de dados**, o que fortaleceu minha base técnica e minha motivação para seguir carreira como Engenheiro ou Analista de Dados.  
+
+Além do trabalho com tecnologia, gosto de esportes (futebol e basquete), de aprender continuamente e, claro, de uma boa lasanha. 🍝  
+
+---
 
 ### Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/pablodantasevangelista/)
 
+---
+
 ### Projetos em Andamento
-- [Predicting-Heart-Attack-Risk](https://github.com/opablodantas/Predicting-Heart-Attack-Risk): Um projeto para prever o risco de ataque cardíaco usando aprendizado de máquina.
-- [UCI-Absenteeism-at-Work-Analysis](https://github.com/opablodantas/UCI-Absenteeism-at-Work-Analysis): Uma análise de ausências no trabalho com dados da UCI.
+*(em breve...)*
+
+---
 
 ### Projetos Destacados
+*(em breve...)*
 
-- [HR_Analysis_Workforce_Insights](https://github.com/opablodantas/HR_Analysis_Workforce_Insights): Projeto de análise de dados de recursos humanos para insights sobre educação, experiência e retenção de funcionários
-- [SP-Urban-Traffic-Prediction-Research](https://github.com/opablodantas/SP-Urban-Traffic-Prediction-Research): Projeto sobre o Comportamento do trânsito urbano da cidade de São Paulo, Brasil
+---
 
 ### Linguagens e Ferramentas
 <p align="left">
@@ -30,14 +38,14 @@ Desde que descobri a fascinante área de Ciência de Dados em 2020, meu sonho te
   <a href= "https://www.r-project.org/" target = "_blank" rel="noreferrer"> <img src= "https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
 </p>
 
+---
+
 ### Estatísticas do GitHub
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opablodantas&show_icons=true&locale=en&layout=compact" alt="opablodantas" />
 </p>
 
-
 ---
 
-Se você também é um entusiasta de dados, um amante de lasanha, ou apenas alguém que gosta de se conectar com pessoas ávidas por conhecimento, estou aqui para trocar ideias, insights e talvez até algumas receitas de lasanha (se você estiver interessado, é claro!).
-
-Então, vamos nos conectar e embarcar nesta jornada de descoberta de dados, enquanto compartilhamos algumas risadas e, quem sabe, uma fatia de lasanha virtual. 😄🍕⚽🏀 #CientistaDeDadosEmTreinamento #TransformandoDadosEmHistórias #AmoLasanha
+📊 **Em busca da primeira oportunidade na área de Dados** para aplicar meu conhecimento em **automação, análise e machine learning** em projetos reais.  
+Se você também é apaixonado por dados ou acredita no poder da tecnologia para transformar negócios, vamos nos conectar! 🚀
