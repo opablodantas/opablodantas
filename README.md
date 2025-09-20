@@ -16,12 +16,27 @@ Além do trabalho com tecnologia, gosto de esportes (futebol e basquete), de apr
 ---
 
 ### Projetos em Andamento
-*(em breve...)*
+
+- [Streamlit AlphaVantage](https://github.com/opablodantas/streamlit-alphavantage): Aplicação web com Streamlit para análise de compra e venda de ações do mercado financeiro usando a API Alpha Vantage.  
+  **Status:** Escopo ainda a ser definido.
+
+- [Email Agent Market](https://github.com/opablodantas/email-agent-market): Projeto para automatizar a leitura de emails, agilizar pedidos e negociações usando LLM Llama3.  
+  **Status:** Projeto em desenvolvimento inicial.
+
+- [RetailLens](https://github.com/opablodantas/RetailLens): Sistema de reconhecimento de produtos em tempo real para comércios do varejo, utilizando Vision Transformer (ViT). Interface em Streamlit permite envio de imagens e identificação automática dos itens. Ideal para controle de estoque e automação de lojas inteligentes.  
+  **Status:** Escopo a ser definido.
+
+- [Projeto Otimizador de Vendas](https://github.com/opablodantas/projeto_otimizador_vendas): Agente que lê dados de vendas e gera recomendações de compra ou não de produtos, agilizando o processo de decisão e aumentando a eficiência do comércio.  
+  **Status:** Projeto em desenvolvimento intermediário.
+
 
 ---
 
 ### Projetos Destacados
-*(em breve...)*
+
+- [Interactive Resume](https://interactive-resume-pablo.streamlit.app/): Um "currículo falante" que utiliza inteligência artificial para responder perguntas sobre minha trajetória profissional, baseado no meu próprio currículo.
+- [TaskBoost Assistente](https://taskboostassistente.streamlit.app/): Assistente virtual que usa um LLM GPT e documentos internos de uma empresa (fictícia) para responder perguntas em tempo real, melhorando a experiência do usuário.
+- [Detecção de Segurança](https://deteccao.streamlit.app/): Projeto de segurança que realiza detecção de classes em vídeos carregados pelo usuário, inicialmente projetado para imagens de câmeras de segurança em tempo real.
 
 ---
 
