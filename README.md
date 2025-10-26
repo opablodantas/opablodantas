@@ -21,7 +21,7 @@ Além do trabalho com tecnologia, gosto de esportes (futebol e basquete), de apr
   **Status:** Escopo ainda a ser definido.
 
 - [Email Agent Market](https://github.com/opablodantas/email-agent-market): Projeto para automatizar a leitura de emails, agilizar pedidos e negociações usando LLM Llama3.  
-  **Status:** Projeto em desenvolvimento inicial.
+  **Status:** Etapa de Validação e Testes, garantindo a eficácia.
 
 - [RetailLens](https://github.com/opablodantas/RetailLens): Sistema de reconhecimento de produtos em tempo real para comércios do varejo, utilizando Vision Transformer (ViT). Interface em Streamlit permite envio de imagens e identificação automática dos itens. Ideal para controle de estoque e automação de lojas inteligentes.  
   **Status:** Escopo a ser definido.
