@@ -29,6 +29,8 @@ Além do trabalho com tecnologia, gosto de esportes (futebol e basquete), de apr
 - [Projeto Otimizador de Vendas](https://github.com/opablodantas/projeto_otimizador_vendas): Agente que lê dados de vendas e gera recomendações de compra ou não de produtos, agilizando o processo de decisão e aumentando a eficiência do comércio.  
   **Status:** Projeto em desenvolvimento intermediário.
 
+- [Clinica AI Scheduler](https://github.com/opablodantas/clinica-ai-scheduler): Assistente inteligente para clínicas de fisioterapia, desenvolvido em Python e Flask, que agenda sessões automaticamente no Google Calendar, verifica horários disponíveis e auxilia no gerenciamento de consultas com integração de IA.
+  **Status:** Escopo a ser definido.
 
 ---
 
